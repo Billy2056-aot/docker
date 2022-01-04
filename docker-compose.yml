@@ -1,10 +1,8 @@
 version: '3.4'
 
 services:
-  testapidjango:
-    image: testapidjango
+  docker:
+    image: docker
     build:
       context: .
       dockerfile: ./Dockerfile
-    ports:
-      - 8000:8000
