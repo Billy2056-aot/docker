@@ -1,0 +1,25 @@
+{
+    "C_Cpp.default.configurationProvider": "BartmanAbyss.amiga-debug",
+    "python.pythonPath": "C:\\Users\\tulak\\anaconda3\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\tulak\\anaconda3\\python.exe"
+        
+    ],
+    "python.analysis.extraPaths": [
+        "C:\\Users\\tulak\\anaconda3\\python.exe"
+    ],
+    "git.autofetch": "all",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./django",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "django"
+    ],
+
+}
