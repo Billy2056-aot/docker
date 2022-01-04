@@ -56,3 +56,4 @@ REDIRECT_DEPTH = 5
 # The list of plugins that will be used to generate the report.
 PLUGINS = ["sitemap",
            "urllist",]
+
